@@ -69,7 +69,7 @@ for degrees of freedom `v` greater than one. For `v <= 1`, the mean is not defin
 ## Usage
 
 ```javascript
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-mean@deno/mod.js';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-mean@v0.2.1-deno/mod.js';
 ```
 
 #### mean( v )
@@ -117,7 +117,7 @@ y = mean( 0.8 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-mean@deno/mod.js';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-mean@v0.2.1-deno/mod.js';
 
 var v;
 var y;

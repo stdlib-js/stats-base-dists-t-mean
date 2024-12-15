@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`ff25e13`](https://github.com/stdlib-js/stdlib/commit/ff25e1324e1507cc076078e82badce7fdf7915f6) - **docs:** remove excess whitespace _(by Philipp Burckhardt)_
 -   [`03494c2`](https://github.com/stdlib-js/stdlib/commit/03494c2d20c88a2ab68fdd9fbf79c396e1885440) - **feat:** add C implementation for `stats/base/dists/t/mean` [(#3922)](https://github.com/stdlib-js/stdlib/pull/3922) _(by Aadish Jain, Philipp Burckhardt)_
 
 </details>

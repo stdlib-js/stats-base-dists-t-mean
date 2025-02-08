@@ -46,8 +46,10 @@
   },
   "devDependencies": {
     "@stdlib/array-float64": "^0.2.2",
+    "@stdlib/constants-float64-eps": "^0.2.2",
     "@stdlib/constants-float64-ninf": "^0.2.2",
     "@stdlib/random-base-randu": "^0.2.1",
+    "@stdlib/random-base-uniform": "^0.2.1",
     "@stdlib/stats-base-dists-t-mean-package.json": "github:stdlib-js/stats-base-dists-t-mean-package.json#main",
     "@stdlib/utils-try-require": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",

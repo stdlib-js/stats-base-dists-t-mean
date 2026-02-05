@@ -69,7 +69,7 @@ for degrees of freedom `v` greater than one. For `v <= 1`, the mean is not defin
 ## Usage
 
 ```javascript
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-mean@esm/index.mjs';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-mean@v0.3.1-esm/index.mjs';
 ```
 
 #### mean( v )
@@ -122,7 +122,7 @@ y = mean( 0.8 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-mean@esm/index.mjs';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-mean@v0.3.1-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
